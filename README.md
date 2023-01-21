@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![megascrapper's GitHub stats](https://github-readme-stats.vercel.app/api?username=megascrapper&show_icons=true&count_private=true&theme=gruvbox)
+![megascrapper's GitHub stats](https://github-readme-stats-megascrapper.vercel.app/api?username=megascrapper&show_icons=true&count_private=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megascrapper&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megascrapper&layout=compact&count_private=true&theme=gruvbox)
