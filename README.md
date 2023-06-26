@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![megascrapper's GitHub stats](https://github-readme-stats-megascrapper.vercel.app/api?username=megascrapper&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megascrapper&layout=compact&theme=gruvbox)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=megascrapper&include_all_commits&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megascrapper&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320" />
+</a>
